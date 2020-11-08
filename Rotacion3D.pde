@@ -1,3 +1,4 @@
+//Actividad_8 Rotacion 3D
 float x = 0;
 void setup(){
 size (600,600, P3D);
